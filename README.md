@@ -1,4 +1,4 @@
-# XMB Home
+# Bravia Launcher
 
 An XMB-inspired home screen for Android TV / Google TV: the cross bar of the PS3's early (0.83)
 firmware, the PSP's slow two-sheet waves, and the PS3's rule for colour (a colour per half month,
