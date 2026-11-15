@@ -2,11 +2,11 @@ plugins { id 'com.android.application' }
 
 android {
     namespace 'com.oso.xmbhome'
-    compileSdk 34
+    compileSdk 28
     defaultConfig {
         applicationId 'com.oso.xmbhome'
-        minSdk 34        // the TV runs Android 14
-        targetSdk 34
+        minSdk 28        // the TV runs Android 10
+        targetSdk 30
         versionCode 1
         versionName '1.0'
     }
